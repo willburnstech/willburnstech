@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willburnstech/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://willburns.tech/)
-[![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/YOURUSERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=willburnstech&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/willburnstech)
 
 </div>
 
@@ -14,13 +14,13 @@
 
 ## 🧠 About Me
 
-```typescript
+```js
 const will = {
     education: "Griffith University - Computer Science",
     majors: ["Data Science & AI", "Algorithms & Computing"],
     currentFocus: ["AI Agents", "Voice AI", "Full-Stack Development"],
     passions: ["AI Automation", "Emerging Tech", "Building Products"],
-    funFact: "I train Muay Thai when I'm not training models 🥊"
+    funFact: "I train Muay Thai when I'm not training models"
 };
 ```
 
@@ -71,7 +71,7 @@ Mining Improvements Department – Developing web app data panels for Haul Truck
 
 ---
 
-## 🧰 Tools & Tech I Work With
+## 🧰 What I commonly use
 
 <div align="center">
 
@@ -102,19 +102,6 @@ Mining Improvements Department – Developing web app data panels for Haul Truck
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
-<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="400"/>
-
-</div>
-
----
-
 ## 🏢 AutomateWise
 
 <div align="center">
@@ -123,7 +110,7 @@ Mining Improvements Department – Developing web app data panels for Haul Truck
 
 That's why I founded **AutomateWise**: helping SMBs implement **tailored AI solutions** that solve real-world pain points.
 
-[![AutomateWise](https://img.shields.io/badge/Learn_More-AutomateWise-58a6ff?style=for-the-badge)](https://willburns.tech/)
+[![AutomateWise](https://img.shields.io/badge/Learn_More-AutomateWise-58a6ff?style=for-the-badge)](https://automatewise.agency/)
 
 </div>
 
@@ -133,9 +120,9 @@ That's why I founded **AutomateWise**: helping SMBs implement **tailored AI solu
 
 <div align="center">
 
-[![TaxGuru AI](https://img.shields.io/badge/🤖_TaxGuru_AI-AI_Tax_Research_Assistant-58a6ff?style=for-the-badge)](https://github.com/YOURUSERNAME)
-[![Admin Panel](https://img.shields.io/badge/📊_Admin_Panel-Knowledge_Base_&_Analytics-3FCF8E?style=for-the-badge)](https://github.com/YOURUSERNAME)
-[![AutomateWise](https://img.shields.io/badge/🚀_AutomateWise-AI_Automation_Solutions-6D00CC?style=for-the-badge)](https://github.com/YOURUSERNAME)
+[![TaxGuru AI](https://img.shields.io/badge/🤖_TaxGuru_AI-AI_Tax_Research_Assistant-58a6ff?style=for-the-badge)](https://github.com/willburnstech)
+[![Admin Panel](https://img.shields.io/badge/📊_Admin_Panel-Knowledge_Base_&_Analytics-3FCF8E?style=for-the-badge)](https://github.com/willburnstech)
+[![AutomateWise](https://img.shields.io/badge/🚀_AutomateWise-AI_Automation_Solutions-6D00CC?style=for-the-badge)](https://github.com/willburnstech)
 
 </div>
 
@@ -147,7 +134,7 @@ That's why I founded **AutomateWise**: helping SMBs implement **tailored AI solu
 
 *Always building, always learning, always innovating with AI.*
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willburns@automatewise.agency)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willburnstech/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://willburns.tech/)
 
