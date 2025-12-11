@@ -14,16 +14,6 @@
 
 ## 🧠 About Me
 
-```js
-const will = {
-    education: "Griffith University - Computer Science",
-    majors: ["Data Science & AI", "Algorithms & Computing"],
-    currentFocus: ["AI Agents", "Voice AI", "Full-Stack Development"],
-    passions: ["AI Automation", "Emerging Tech", "Building Products"],
-    funFact: "I train Muay Thai when I'm not training models"
-};
-```
-
 - 🎓 **Second-year CS student** double majoring in **Data Science & AI** + **Algorithms**
 - 🚀 **Founder of AutomateWise** – AI automation for Australian SMBs
 - 🤖 **CTO at TaxGuru AI** – AI-powered research assistant for accountants
@@ -120,9 +110,9 @@ That's why I founded **AutomateWise**: helping SMBs implement **tailored AI solu
 
 <div align="center">
 
-[![TaxGuru AI](https://img.shields.io/badge/🤖_TaxGuru_AI-AI_Tax_Research_Assistant-58a6ff?style=for-the-badge)](https://github.com/willburnstech)
-[![Admin Panel](https://img.shields.io/badge/📊_Admin_Panel-Knowledge_Base_&_Analytics-3FCF8E?style=for-the-badge)](https://github.com/willburnstech)
-[![AutomateWise](https://img.shields.io/badge/🚀_AutomateWise-AI_Automation_Solutions-6D00CC?style=for-the-badge)](https://github.com/willburnstech)
+[![TaxGuru AI](https://img.shields.io/badge/🤖_TaxGuru_AI-AI_Tax_Research_Assistant-58a6ff?style=for-the-badge)](https://tax-guru.ai/)
+[![Admin Panel](https://img.shields.io/badge/📊_Admin_Panel-Knowledge_Base_&_Analytics-3FCF8E?style=for-the-badge)](https://admin.tax-guru.ai/)
+[![AutomateWise](https://img.shields.io/badge/🚀_AutomateWise-AI_Automation_Solutions-6D00CC?style=for-the-badge)](https://automatewise.agency/)
 
 </div>
 
