@@ -16,9 +16,8 @@
 
 - 🎓 **Second-year CS student** double majoring in **Data Science & AI** + **Algorithms**
 - 🚀 **Founder of AutomateWise** – AI automation for Australian SMBs
-- 🤖 **CTO at TaxGuru AI** – AI-powered research assistant for accountants
-- ⛏️ **Junior Software Engineer @ Glencore** – Mining tech & data systems
-- 🌐 Interests: **AI, Crypto, Web3, Gym, Muay Thai**
+- 🤖 **Founding Developer of TaxGuru AI** – AI-powered research assistant for accountants
+- 🌐 Interests: **AI, Crypto, Web3, Fitness**
 
 ---
 
@@ -51,7 +50,7 @@ Building an **AI-powered research assistant** for accountants using cutting-edge
 <td colspan="2">
 
 ### ⛏️ Glencore – Hail Creek Mine
-**Junior Software Engineer** · Dec 2025 – Feb 2026
+**Vacation Software Engineer** · Dec 2025 – Feb 2026
 
 Mining Improvements Department – Developing web app data panels for Haul Truck operators & ROM bin monitoring systems.
 
