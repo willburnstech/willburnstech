@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Director+@+AutomateWise+%F0%9F%9A%80;CTO+@+TaxGuru+AI+%F0%9F%A4%96;CS+%40+Griffith+University+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Director+@+AutomateWise+%F0%9F%9A%80;CTO+@+Tax+Guru+AI+%F0%9F%A4%96;CS+%40+Griffith+University+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,8 +22,8 @@ name: Will Burns
 location: Gold Coast, Australia
 education: Computer Science @ Griffith University (Algorithms & Computing + Data Science & Artificial Intelligence)
 roles:
-  - Director @ AutomateWise — AI Consulting and Implementation Partner
-  - CTO @ TaxGuru AI — AI-powered tax tool
+  - Director @ Automate Wise — AI Consulting and Implementation Partner
+  - CTO @ Tax Guru AI — AI-powered tax tool
 interests: [ Tech, Entrepreneurship, Fitness ]
 currently_building: AI for Tax, Marketing, Voice and more
 ```
@@ -47,7 +47,7 @@ currently_building: AI for Tax, Marketing, Voice and more
 
 ---
 
-## 🏢 AutomateWise
+## 🏢 Automate Wise
 
 <div align="center">
 
@@ -55,7 +55,7 @@ currently_building: AI for Tax, Marketing, Voice and more
 
 At  **Automate Wise** I help Australian companys implement **custom AI solutions** that actually push the needle, we stripe away all the hype and implement solutions that actually drive measurable ROI.
 
-[![AutomateWise](https://img.shields.io/badge/🚀_AutomateWise-Visit_Site-58a6ff?style=for-the-badge)](https://automatewise.agency/)
+[![Automate Wise](https://img.shields.io/badge/🚀_AutomateWise-Visit_Site-58a6ff?style=for-the-badge)](https://automatewise.agency/)
 
 </div>
 
@@ -69,7 +69,7 @@ At  **Automate Wise** I help Australian companys implement **custom AI solutions
 <tr>
 <td align="center" width="50%">
 
-### 🤖 TaxGuru AI
+### 🤖 Tax Guru AI
 AI tool for tax.
 
 [![Live](https://img.shields.io/badge/Live-tax--guru.ai-58a6ff?style=flat-square)](https://tax-guru.ai/)
@@ -77,7 +77,7 @@ AI tool for tax.
 </td>
 <td align="center" width="50%">
 
-### 🚀 AutomateWise
+### 🚀 Automate Wise
 AI Consulting and Implementation Partner.
 
 [![Live](https://img.shields.io/badge/Live-automatewise.agency-6D00CC?style=flat-square)](https://automatewise.agency/)
