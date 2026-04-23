@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Founder+of+AutomateWise+%F0%9F%9A%80;CTO+at+TaxGuru+AI+%F0%9F%A4%96;CS+%40+Griffith+University+%F0%9F%8E%93;AI+Automation+%7C+Full-Stack+Dev+%7C+Voice+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Director+@+AutomateWise+%F0%9F%9A%80;CTO+@+TaxGuru+AI+%F0%9F%A4%96;CS+%40+Griffith+University+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,10 +22,10 @@ name: Will Burns
 location: Gold Coast, Australia
 education: Computer Science @ Griffith University (Algorithms & Computing + Data Science & Artificial Intelligence)
 roles:
-  - Founder @ AutomateWise — AI automation for Australian SMBs
-  - CTO @ TaxGuru AI — AI-powered research assistant for accountants
-interests: [ Tech, Business, Fitness ]
-currently_building: AI and modern tech for Tax, Marketing, Voice and more
+  - Director @ AutomateWise — AI Consulting and Implementation Partner
+  - CTO @ TaxGuru AI — AI-powered tax tool
+interests: [ Tech, Entrepreneurship, Fitness ]
+currently_building: AI for Tax, Marketing, Voice and more
 ```
 
 ---
@@ -51,9 +51,9 @@ currently_building: AI and modern tech for Tax, Marketing, Voice and more
 
 <div align="center">
 
-> *75% of executives fear their business could fail within 4 years without adopting AI.*
+> *2023 stat: 75% of executives fear their business could fail within 4 years without adopting AI.*
 
-I founded **AutomateWise** to help Australian SMBs implement **tailored AI solutions** — from lead management automation to AI voice agents — that solve real-world pain points and drive measurable ROI.
+At  **Automate Wise** I help Australian companys implement **custom AI solutions** that actually push the needle, we stripe away all the hype and implement solutions that actually drive measurable ROI.
 
 [![AutomateWise](https://img.shields.io/badge/🚀_AutomateWise-Visit_Site-58a6ff?style=for-the-badge)](https://automatewise.agency/)
 
@@ -70,7 +70,7 @@ I founded **AutomateWise** to help Australian SMBs implement **tailored AI solut
 <td align="center" width="50%">
 
 ### 🤖 TaxGuru AI
-AI tool for tax professionals.
+AI tool for tax.
 
 [![Live](https://img.shields.io/badge/Live-tax--guru.ai-58a6ff?style=flat-square)](https://tax-guru.ai/)
 
@@ -78,7 +78,7 @@ AI tool for tax professionals.
 <td align="center" width="50%">
 
 ### 🚀 AutomateWise
-AI Consulting agency where we partner with businesses to transform them with modern technologies.
+AI Consulting and Implementation Partner.
 
 [![Live](https://img.shields.io/badge/Live-automatewise.agency-6D00CC?style=flat-square)](https://automatewise.agency/)
 
@@ -96,7 +96,7 @@ AI Consulting agency where we partner with businesses to transform them with mod
 
 *Always building, always learning, always shipping.*
 
-**Open to collaborations on AI/ML projects, automation workflows, and Web3 experiments.**
+**Open to collaboration.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willburnstech/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://willburns.tech/)
