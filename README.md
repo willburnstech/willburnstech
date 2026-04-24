@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Hey%2C%20I%27m%20Will%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Business%20%26%20Startups%20in%20Tech%20%7C%20Com%20Sci%20Major&descAlignY=55&descSize=18)
+![Header]![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Hey,%20I'm%20Will%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20AI%20Engineer%20|%20Building%20the%20Future&descAlignY=55&descSize=18)
 
 <div align="center">
   
