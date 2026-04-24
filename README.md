@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Hey,%20I'm%20Will%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Business%20%26%20Startups%20in%20Tech%20%7C%20Com%20Sci%20Major&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Hey%2C%20I%27m%20Will%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Business%20%26%20Startups%20in%20Tech%20%7C%20Com%20Sci%20Major&descAlignY=55&descSize=18)
 
 <div align="center">
   
@@ -27,23 +27,6 @@ roles:
 interests: [Tech, Entrepreneurship, Fitness]
 currently_building: AI for Tax, Marketing, Voice and more
 ```
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-| Category | Technologies |
-|:--------:|:------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Backend & Data** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white) |
-| **AI & LLMs** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white) |
-| **Automation** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white) |
-| **Voice AI** | ![Pipecat](https://img.shields.io/badge/Pipecat-5046E5?style=flat-square) ![LiveKit](https://img.shields.io/badge/LiveKit-FF4785?style=flat-square&logo=livekit&logoColor=white) ![Cartesia](https://img.shields.io/badge/Cartesia-000000?style=flat-square) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white) |
-
-</div>
 
 ---
 
