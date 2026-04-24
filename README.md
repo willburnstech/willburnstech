@@ -1,13 +1,13 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Hey,%20I'm%20Will%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Business%20&%20Startups%20in%20Tech|%20Com%20Sci%20Major&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Hey,%20I'm%20Will%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Business%20%26%20Startups%20in%20Tech%20%7C%20Com%20Sci%20Major&descAlignY=55&descSize=18)
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Director+@+AutomateWise+%F0%9F%9A%80;CTO+@+Tax+Guru+AI+%F0%9F%A4%96;CS+%40+Griffith+University+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Director+@+AutomateWise+%F0%9F%9A%80;Lead+Dev+@+Tax+Guru+AI+%F0%9F%A4%96;CS+%40+Griffith+University+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willburnstech/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://willburns.tech/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-58a6ff?style=for-the-badge)](https://willburns.tech/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willburns@automatewise.agency)
 [![Profile Views](https://komarev.com/ghpvc/?username=willburnstech&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/willburnstech)
 
@@ -23,8 +23,8 @@ location: Gold Coast, Australia
 education: Computer Science @ Griffith University (Algorithms & Computing + Data Science & Artificial Intelligence)
 roles:
   - Director @ Automate Wise — AI Consulting and Implementation Partner
-  - CTO @ Tax Guru AI — AI-powered tax tool
-interests: [ Tech, Entrepreneurship, Fitness ]
+  - Lead Dev @ Tax Guru AI — AI-powered tax tool
+interests: [Tech, Entrepreneurship, Fitness]
 currently_building: AI for Tax, Marketing, Voice and more
 ```
 
@@ -41,7 +41,7 @@ currently_building: AI for Tax, Marketing, Voice and more
 | **Backend & Data** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white) |
 | **AI & LLMs** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white) |
 | **Automation** | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white) |
-| **Voice AI** | ![Pipecat](https://img.shields.io/badge/Pipecat-5046E5?style=flat-square&logoColor=white) ![LiveKit](https://img.shields.io/badge/LiveKit-FF4785?style=flat-square&logoColor=white) ![Cartesia](https://img.shields.io/badge/Cartesia-000000?style=flat-square&logoColor=white) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logoColor=white) |
+| **Voice AI** | ![Pipecat](https://img.shields.io/badge/Pipecat-5046E5?style=flat-square) ![LiveKit](https://img.shields.io/badge/LiveKit-FF4785?style=flat-square&logo=livekit&logoColor=white) ![Cartesia](https://img.shields.io/badge/Cartesia-000000?style=flat-square) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white) |
 
 </div>
 
@@ -53,7 +53,7 @@ currently_building: AI for Tax, Marketing, Voice and more
 
 > *2023 stat: 75% of executives fear their business could fail within 4 years without adopting AI.*
 
-At  **Automate Wise** I help Australian companys implement **custom AI solutions** that actually push the needle, we stripe away all the hype and implement solutions that actually drive measurable ROI.
+At **Automate Wise** I help Australian companies implement **custom AI solutions** that actually push the needle. We strip away the hype and implement solutions that drive measurable ROI.
 
 [![Automate Wise](https://img.shields.io/badge/🚀_AutomateWise-Visit_Site-58a6ff?style=for-the-badge)](https://automatewise.agency/)
 
@@ -92,14 +92,12 @@ AI Consulting and Implementation Partner.
 
 <div align="center">
 
-### 💬 Let's Connect
+### 💬 Connect with Me
 
 *Always building, always learning, always shipping.*
 
-**Open to collaboration.**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willburnstech/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://willburns.tech/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-58a6ff?style=for-the-badge)](https://willburns.tech/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:willburns@automatewise.agency)
 
 </div>
