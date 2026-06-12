@@ -48,7 +48,7 @@ At **Automate Wise** I help Australian companies implement **custom AI solutions
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Work
 
 <div align="center">
 <table>
